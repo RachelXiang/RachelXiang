@@ -41,9 +41,3 @@
   - 2023/24 University Academic Excellence Award
   - 2024/25 University Academic Excellence Award
 
-
----
-
-### 📌 Research Philosophy
-> *"Simulation is the ultimate microscope - it allows us to see the dance of atoms that experiments can only suggest."*  
-> *—— Inspired by [Klaus Schulten](https://en.wikipedia.org/wiki/Klaus_Schulten)*
