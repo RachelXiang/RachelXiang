@@ -27,17 +27,16 @@
 
 ---
 
-### 📚 Academic Journey
+### 📚 Education
 
 - 🎓 **BSc in Chemistry**  
   Xi'an Jiaotong Liverpool University (2021-2025)  
   GPA: 3.9/4.0 
-
-- 📜 **Publications**  
-  🏅 [Force-Field Benchmark for Polydimethylsiloxane: Density, Heat Capacities, Isothermal Compressibility, Viscosity and Thermal Conductivity](https://pubs.acs.org/doi/10.1021/acs.jpcb.4c08471JournalLink) | *J. Phys. Chem. B* (2025)  
 
 - 🏆 **Honors**  
   - 2022/23 University Academic Excellence Award
   - 2023/24 University Academic Excellence Award
   - 2024/25 University Academic Excellence Award
 
+### 📜 Publications
+  🏅 [Force-Field Benchmark for Polydimethylsiloxane: Density, Heat Capacities, Isothermal Compressibility, Viscosity and Thermal Conductivity](https://pubs.acs.org/doi/10.1021/acs.jpcb.4c08471JournalLink) | *J. Phys. Chem. B* (2025)  
