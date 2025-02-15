@@ -39,4 +39,4 @@
   - 2024/25 University Academic Excellence Award
 
 ### 📜 Publications
-  🏅 [Force-Field Benchmark for Polydimethylsiloxane: Density, Heat Capacities, Isothermal Compressibility, Viscosity and Thermal Conductivity](https://pubs.acs.org/doi/10.1021/acs.jpcb.4c08471JournalLink) | *J. Phys. Chem. B* (2025)  
+  🏅 [Force-Field Benchmark for Polydimethylsiloxane: Density, Heat Capacities, Isothermal Compressibility, Viscosity and Thermal Conductivity](https://pubs.acs.org/doi/10.1021/acs.jpcb.4c08471) | *J. Phys. Chem. B* (2025)  
