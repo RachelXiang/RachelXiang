@@ -37,6 +37,7 @@
   - 2022/23 University Academic Excellence Award
   - 2023/24 University Academic Excellence Award
   - 2024/25 University Academic Excellence Award
+  - First prize of BSc Applied Chemistry at the 2025 Science Undergraduate Final Year Project Poster Event
 
 ### 📜 Publications
   🏅 [Force-Field Benchmark for Polydimethylsiloxane: Density, Heat Capacities, Isothermal Compressibility, Viscosity and Thermal Conductivity](https://pubs.acs.org/doi/10.1021/acs.jpcb.4c08471) | *J. Phys. Chem. B* (2025)  
